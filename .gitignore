@@ -1,0 +1,38 @@
+# User-supplied source media and extracted/generated output.
+/vol*/
+/vol_*/
+/disc*/
+/source*/
+/sources*/
+/content/
+/data/
+/index.html
+/site.css
+*.arc
+*.iso
+*.img
+*.dbf
+*.fpt
+*.cdx
+*.mdb
+*.pdf
+
+# Visual references and screenshots from proprietary applications or content.
+*_visual_references/
+*screenshot*/
+*screenshots*/
+
+# Python/test caches.
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Pipeline run logs (regenerated each run).
+tools/*.log
+
+# Local developer tooling / assistant config.
+.claude/
