@@ -1,3 +1,6 @@
+<img width="300" height="300" alt="ford_tso_dvd" src="https://github.com/user-attachments/assets/f6abb7c8-1f0d-4158-b404-3baa50191aed" />
+
+
 # Legacy Ford TSO Service Manual Conversion Toolkit
 
 Tools for converting lawfully obtained, user-supplied legacy Ford TSO DVD
